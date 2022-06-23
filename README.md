@@ -10,4 +10,6 @@ There are two modes:
 - multiplayer mode in which two player face each other in 3 rounds. The game view is splitted into two parts and every player can cleary see what is happening on his side.
 
 #Gameplay video
+
+
 https://user-images.githubusercontent.com/15947565/175425264-161c3b19-062b-45e3-b93b-091050067e09.mp4
